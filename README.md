@@ -1,6 +1,6 @@
 Hi, I'm Cosmin Stan!
 
-I work as a Full Stack Developer in Târgoviște, Romania. My passion for code started in 2011 and since then, I'm contantly learning and improving my skils. I take great care in the experience, architecture, and code quality of the things I build.
+I work as a Full Stack Developer in Târgoviște, Romania. My passion for code started in 2011 and since then, I'm constantly learning and improving my skills. I take great care in the experience, architecture, and code quality of the things I build.
 
 <p><strong>Languages, Frameworks and Tools:</strong></p>
 <div class="icons">
