@@ -14,6 +14,7 @@ I work as a Full Stack Developer in Târgoviște, Romania. My passion for code s
 	<img width="32" src="https://cosminstan.dev/assets/icons/vuejs.png" title="VueJS" alt="VueJS">
 	<img width="32" src="https://cosminstan.dev/assets/icons/angular.png" title="Angular" alt="Angular">
 	<img width="32" src="https://cosminstan.dev/assets/icons/react.png" title="React" alt="React">
+	<img width="32" src="https://cosminstan.dev/assets/icons/jquery.png" title="jQuery" alt="jQuery">
 	<img width="32" src="https://cosminstan.dev/assets/icons/bootstrap.png" title="Bootstrap" alt="Bootstrap">
 	<img width="32" src="https://cosminstan.dev/assets/icons/git.png" title="Git" alt="Git">
 	<img width="32" src="https://cosminstan.dev/assets/icons/docker.png" title="Docker" alt="Docker">
